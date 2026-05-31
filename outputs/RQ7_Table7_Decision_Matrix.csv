@@ -1,0 +1,6 @@
+Criterion,Linear Regression,Random Forest,XGBoost,SVR
+Predictive Performance,2.5,2.5,2.5,2.5
+Interpretability,5.0,3.0,2.5,2.0
+Robustness,3.5,4.5,4.5,3.5
+Computational Cost,5.0,3.0,2.5,2.5
+Deployment Suitability,5.0,4.5,4.0,3.5

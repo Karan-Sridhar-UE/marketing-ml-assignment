@@ -1,0 +1,5 @@
+Model,Rank by MAE,Rank by RMSE,Rank by R²
+Linear Regression,2,2,2
+Random Forest,3,3,3
+XGBoost,4,4,4
+SVR,1,1,1

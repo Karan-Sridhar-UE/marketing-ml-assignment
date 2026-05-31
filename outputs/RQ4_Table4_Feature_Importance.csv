@@ -1,0 +1,11 @@
+Rank,Feature,Importance,Direction
+1,Bundle_Price,0.1264,Negative
+2,Budget,0.1256,Negative
+3,Clicks,0.1241,Negative
+4,Conversions,0.1194,Positive
+5,ROI,0.1167,Positive
+6,Units_Sold,0.1136,Positive
+7,Discount_Level,0.0998,Positive
+8,Subscription_Length,0.088,Positive
+9,Customer_Satisfaction_Post_Refund,0.0322,Negative
+10,Common_Keywords,0.0297,Negative
