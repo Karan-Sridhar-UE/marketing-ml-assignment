@@ -79,33 +79,6 @@ Each notebook is **self-contained** — it reads the raw dataset and outputs fig
 
 ---
 
-## How to Run on Kaggle
-
-1. Go to [kaggle.com](https://kaggle.com) → **Code** → **New Notebook**
-2. Click **File** → **Import Notebook** → upload the `.ipynb` file
-3. Click **Add Data** on the right panel → search `marketing-and-product-performance-dataset` by `imranalishahh` → Add
-4. Click **Run All**
-5. Download figures (PDF) and tables (CSV) from the **Output** tab
-
-> All required libraries (xgboost, shap, scikit-learn) are pre-installed on Kaggle — no setup needed.
-
-## How to Run Locally
-
-```bash
-# 1. Clone or download this repository
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Download the dataset from Kaggle and place it at:
-#    data/marketing_and_product_performance.csv
-#    Then update DATA_PATH in each notebook accordingly.
-
-# 4. Launch Jupyter
-jupyter notebook
-```
-
----
-
 ## Expected Outputs
 
 Each notebook saves its results automatically:
